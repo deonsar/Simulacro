@@ -2,3 +2,6 @@ ESTO ES UN SIMULACRO
 
 AQUI VAMOS HACER UNAS PRUEBAS CON GIT
 Empezamos a trabajar
+
+---
+Esta sería la versión de explotación
